@@ -1,14 +1,19 @@
 # vuejs-store-checkout-wc
+
 Webcomponent micro-ui to provide a Checkout page for my [VueJS Fake Store App](https://github.com/yodono/vuejs-store).
 
 ## How to run
+
 1. Build the app
+
 ```bash
 npm run build
 ```
+
 2. Run `server/index.js` to serve the static files to localhost.
 
 ---
+
 ### Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
